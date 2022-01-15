@@ -1,4 +1,14 @@
-img {
-	width: 1400px;
-	height: 675px;
+div{
+    width: 600px;
+    margin: 0 auto;
+    font-size: 38px;
+    font-family: Arial, Helvetica, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #414141;
+}
+.bbb{
+
+}
+
+.aligncenter {
+    text-align: center;
 }
